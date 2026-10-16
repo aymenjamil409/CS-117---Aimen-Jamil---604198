@@ -1,4 +1,3 @@
-#Taking Voltage and Resistance as input from user
 V= float(input("Enter the Voltage:"))
 R = float(input("Enter the resistance:"))
 if R==0 or R<0:
